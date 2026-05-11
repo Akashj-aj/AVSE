@@ -1,4 +1,4 @@
-# Audio-Visual Speech Enhancement System for Deaf Users in Multi-Speaker Environments
+# Audio-Visual Speech Enhancement System for Hearing Impaired and Deaf Users in Multi-Speaker Environments
 
 > Isolating and clarifying speech in multi-speaker environments — through the fusion of sound and sight.
 
